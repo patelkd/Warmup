@@ -1,6 +1,6 @@
 public class Warmup {
 	public static void main(String[] args) {
-		factorial(4);
+		factorial(5);
 	}
 	public static int factorial (int n) {
 		int factorial = 1;
